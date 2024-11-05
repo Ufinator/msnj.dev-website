@@ -1,0 +1,33 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    font-family: 'Roboto';
+}
+
+#mainblock {
+    position: absolute;
+    text-align: center;
+    bottom: 45%;
+    width: 100%;
+}
+
+#mainblock .small {
+    font-size: 75%;
+    color: gray;
+}
+
+#mainblock a {
+    text-decoration: none;
+    color: rgb(110, 68, 134);
+    font-weight: bold;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
